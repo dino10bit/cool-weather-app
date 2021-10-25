@@ -1,0 +1,1 @@
+export { IWeatherResponse } from './weatherResponse';
